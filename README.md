@@ -1,5 +1,5 @@
 # Virtual-Tour
- Virtual Tour application for BMU ACM Hackathon
+ Virtual Tour application for Final Year Project.
 
 Virtual Tour is an Augmented Reality application that enables users to experience virtual worlds from the comfort of their homes.
 Users can indulge in the worlds by walking around in the real world and through interaction.
